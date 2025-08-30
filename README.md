@@ -17,9 +17,11 @@ Before running the script, please make sure to do the following:
 
 3. **Install required libraries**: Make sure you have the necessary Python packages installed.
 
-
 And that’s it! 🎉  
 Now you can start scraping posts from 2025 for your chosen Instagram account.
+
+
+
 
 
 
