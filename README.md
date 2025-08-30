@@ -25,4 +25,4 @@ Now you can start scraping posts from 2025 for your chosen Instagram account.
 
 
 
-**Happy scraping! 🚀**\n-hazellenuts
+**Happy scraping! 🚀**<br />-hazellenuts
