@@ -12,9 +12,7 @@ When I tried to get captions using Selenium, I couldn’t reliably extract them,
 Before running the script, please make sure to do the following:
 
 1. **Update the script**: Look for comments marked with `#` and replace them with your own Instagram username, password, target account URL, or any other settings as needed.
-
 2. **Install ChromeDriver**: You need ChromeDriver for Selenium to work. Download it here: [Chromedriver](https://chromedriver.chromium.org/downloads)
-
 3. **Install required libraries**: Make sure you have the necessary Python packages installed.
 
 And that’s it! 🎉  
